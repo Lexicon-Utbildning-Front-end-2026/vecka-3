@@ -65,8 +65,9 @@
 * [(YT - Kevin Powell) The magic auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=OZ6qKoq7RJU)
 
 #### 📃 Läsning
-* **Viktig!** [CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
-* [Varning - innehåller även en del överkurs (CSS tricks) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid)
+Två olika källor här, se vilken ni föredrar. Titta gärna igenom båda och välj sen vad ni tycker känns relevant och viktigt. 
+* [(CSS tricks) CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid)
+* [(mdn) CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
 
 #### 🛠️ Övningar
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
