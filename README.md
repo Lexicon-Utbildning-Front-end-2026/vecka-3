@@ -75,7 +75,7 @@
 
 ### 🎯 Mål för dagen
 * Repetera veckans mål
-* Överkurs för de som vill - Behärska mer avancerade tekniker med CSS Grid
+* Överkurs för de som vill - Behärska mer avancerade tekniker med CSS Grid som subgrid eller named grid lines osv
 
 ### 📚 Material
 
