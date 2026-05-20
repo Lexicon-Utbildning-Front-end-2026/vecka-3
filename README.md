@@ -94,7 +94,7 @@
 Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
 Frågor för Code Review:
-* **I grupp:** Visa och förklara för de andra i gruppen hur du använt flex och grid i din kod. Motivera också varför du valt den ena framför den andra och om du i efterhand skulle gjort något annorlunda.
-* **Gemensamt:** Vad är svårast med att förklara sin kod för andra och vad är svårast när man försöker förstå andras kod?
+* **I grupp:** Visa och förklara för de andra i gruppen hur du använt logical properties, flex och grid i din kod. Motivera också varför du valt den ena framför den andra och om du i efterhand skulle gjort något annorlunda. Sammanfatta er diskussion med vad som var mest intressant/viktigt och det som var svårast i veckan. Diskutera också frågan som ska tas gemensamt och vem som för gruppens talan när vi samlas. 
+* **Gemensamt:** Vad är svårast med att *förklara sin kod* för andra och vad är svårast när man *försöker förstå andras kod*?
 
 ---
