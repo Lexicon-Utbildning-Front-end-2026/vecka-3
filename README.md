@@ -45,7 +45,7 @@
 #### 🛠️ Övningar
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
 * [[Extra om ni vill och hinner inför fredag - [Gör en skip link på er receptsida](](](https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/)
-* **Inför fredag** - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten: |LOGO_______Recept__Om oss__Kontakt______Logga in|
+* **Inför fredag** - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten som följer med logo och logga in i yttre kanterna och de andra länkarna centrerade i mitten: |LOGO_______Recept__Om oss__Kontakt______Logga in| 
 ---
 
 ## 📅 Onsdag: CSS Grid
