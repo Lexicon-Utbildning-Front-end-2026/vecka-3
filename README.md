@@ -43,6 +43,7 @@
 * **Viktig** [(CSS-Tricks) CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### 🛠️ Övningar
+* [Flexbox Froggy](https://flexboxfroggy.com/#sv)
 * [(MDN) Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)
 * [[Extra om ni vill och hinner inför fredag - [Gör en skip link på er receptsida](](](https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/)
 * **Inför fredag** - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten som följer med logo och logga in i yttre kanterna och de andra länkarna centrerade i mitten:
@@ -70,6 +71,7 @@ Två olika källor här, se vilken ni föredrar. Titta gärna igenom båda och v
 * [(mdn) CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
 
 #### 🛠️ Övningar
+* [Grid Garden](https://cssgridgarden.com/#sv)
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
 * **Inför fredag** - Skapa en ny sida till receptsidan med en lista av olika kort med länkar till recept presenterade i en grid. Gör som små kort med en bild, namn på recept och kanske något mer bara. Dessa ska sen länka vidare till receptsidorna (ni behöver inte göra fler receptsidor utan ni kan länka enbart till den ni har redan).
 
