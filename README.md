@@ -24,8 +24,11 @@
 #### 🛠️ Övningar
 * [(MDN) - Test your skills: The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)
 * [(MDN) - Test your skills: Sizing](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Sizing)
-* **Inför fredag** - Testa att använda logical properties för padding, margin eller size i din kod. 
+* **Inför fredag** - Testa att använda logical properties för padding, margin eller size i din kod.
 
+#### Demo-koder
+* [Codepen - flex-align](https://codepen.io/robert-lexicon/pen/MYbvMbr)
+* [Demo-sida för testning](https://github.com/Lexicon-Utbildning-Front-end-2026/lektion-26-maj)
 ---
 
 ## 📅 Tisdag: Flexbox
