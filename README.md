@@ -78,6 +78,7 @@ Två olika källor här, se vilken ni föredrar. Titta gärna igenom båda och v
 
 #### 🛠️ Övningar
 * [Grid Garden](https://cssgridgarden.com/#sv)
+* Här är lite av de kodsnuttarna som jag visade, testa gärna runt där om ni vill [Codepen exempel](https://codepen.io/robert-lexicon)
 * [(MDN) Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)
 * **Inför fredag** - Skapa en ny sida till receptsidan med en lista av olika kort med länkar till recept presenterade i en grid. Gör som små kort med en bild, namn på recept och kanske något mer bara. Dessa ska sen länka vidare till receptsidorna (ni behöver inte göra fler receptsidor utan ni kan länka enbart till den ni har redan).
 
