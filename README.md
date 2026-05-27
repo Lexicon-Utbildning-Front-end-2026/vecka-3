@@ -26,9 +26,7 @@
 * [(MDN) - Test your skills: Sizing](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Sizing)
 * **Inför fredag** - Testa att använda logical properties för padding, margin eller size i din kod.
 
-#### Demo-koder
-* [Codepen - flex-align](https://codepen.io/robert-lexicon/pen/MYbvMbr)
-* [Demo-sida för testning](https://github.com/Lexicon-Utbildning-Front-end-2026/lektion-26-maj)
+
 ---
 
 ## 📅 Tisdag: Flexbox
@@ -53,6 +51,10 @@
 * **Inför fredag** - Lägg till en meny högst upp på sidan som innehåller en Logo (text eller bild), några länkar ("Om oss", "Kontakt" eller vad ni vill), en logga in-knapp. Gör menyn med flex. Menyn ska ha layouten som följer med logo och logga in i yttre kanterna och de andra länkarna centrerade i mitten:
 
 |LOGO_______Recept__Om oss__Kontakt______Logga in| 
+
+#### Demo-koder
+* [Codepen - flex-align](https://codepen.io/robert-lexicon/pen/MYbvMbr)
+* [Demo-sida för testning](https://github.com/Lexicon-Utbildning-Front-end-2026/lektion-26-maj)
 
 ---
 
